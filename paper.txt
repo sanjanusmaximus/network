@@ -1,0 +1,4 @@
+accuracy graph and loss graph for 2 dataset combined algo
+proposed approach instead of combined
+
+23
